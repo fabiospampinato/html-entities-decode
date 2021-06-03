@@ -1,3 +1,5 @@
+> This package is deprecated, use "entities-decode" or "entities" instead.
+
 # HTML Entities Decode
 
 Fast function for decoding HTML entities.
